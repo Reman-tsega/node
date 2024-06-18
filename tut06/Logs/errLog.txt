@@ -1,0 +1,14 @@
+18-06-2024		11:14:43	168f189f-e831-471b-8523-5c17722a8313	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:15:17}	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:15:27	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:16:16	Error	Not allowed by CORS	GET	/dd	undefined
+18-06-2024		11:17:49	Error	Not allowed by CORS	OPTIONS	/	https://www.google.com
+18-06-2024		11:17:49	Error	Not allowed by CORS	GET	/	https://www.google.com
+18-06-2024		11:18:19	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:18:32	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:18:34	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:18:35	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:18:35	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:18:37	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:18:44	Error	Not allowed by CORS	GET	/	undefined
+18-06-2024		11:18:46	Error	Not allowed by CORS	GET	/	undefined

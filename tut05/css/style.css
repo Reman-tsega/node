@@ -1,0 +1,10 @@
+/* i need some style for index and 404 pages */
+p{
+    color: red;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    font-style: italic;
+    
+}

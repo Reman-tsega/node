@@ -1,0 +1,14 @@
+# write git ignre files for this project
+
+node_modules/
+.DS_Store
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.example
+.env.example.local
+.env.example.development
+.env.example.test
+.env.example.production
