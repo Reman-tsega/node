@@ -14,4 +14,12 @@ router.get('/old-page(.html)?', (req, res) => {
     res.redirect(301, '/new-page.html'); //302 by default
 });
 
+router.route('/my')
+
+    .get ((req, res) => {
+    res.send('My page');
+})
+.post('/my', (req, res) => {
+    res.send('My POST request');
+});
 module.exports = router;
